@@ -1,0 +1,26 @@
+Date,Game,Region,Revenue,Genre,Year,Monthly Active Users (MAU by millions),Session Length (min),User Acquisition Rate (%),Maintenance Cost
+2024-07-01,WOW,North America,19,Arcade,2000,120,4.5,3.2,4.56
+2024-07-01,Galaga,North America,12,Shooter,1981,95,9.1,2.1,3.6
+2024-07-01,Mario,North America,45,Platformer,1985,1100,11.3,6.8,11.7
+2024-07-01,Pac-Man,North America,23,Maze,1980,900,6.1,5.2,5.06
+2024-07-01,Space Invaders,North America,14,Shooter,1978,185,8.2,1.8,4.2
+2024-10-01,WOW,North America,20,Arcade,2000,130,4.6,3.3,4.8
+2024-10-01,Galaga,North America,13.5,Shooter,1981,195,9.2,2,4.05
+2024-10-01,Mario,North America,47,Platformer,1985,1200,11.4,6.7,12.22
+2024-10-01,Pac-Man,North America,24.1,Maze,1980,1000,6.2,5.3,5.3
+2024-10-01,Space Invaders,North America,14.1,Shooter,1978,185,8.3,1.9,4.23
+2024-11-01,WOW,North America,18.5,Arcade,2000,110,4.7,3.4,4.44
+2024-11-01,Galaga,North America,14.2,Shooter,1981,195,9.3,2.2,4.26
+2024-11-01,Mario,North America,44.5,Platformer,1985,1000,11.5,6.9,11.57
+2024-11-01,Pac-Man,North America,22.7,Maze,1980,800,6.3,5.4,5
+2024-11-01,Space Invaders,North America,14.2,Shooter,1978,185,8.4,2,4.26
+2024-12-01,WOW,North America,21.5,Arcade,2000,125,4.8,3.5,5.16
+2024-12-01,Galaga,North America,15.1,Shooter,1981,195,9.4,2.3,4.53
+2024-12-01,Mario,North America,49.2,Platformer,1985,1300,11.6,7,12.79
+2024-12-01,Pac-Man,North America,25.3,Maze,1980,1100,6.3,5.5,5.57
+2024-12-01,Space Invaders,North America,14.3,Shooter,1978,185,8.5,2.1,4.29
+2025-01-01,WOW,North America,19.8,Arcade,2000,115,4.9,3.6,4.75
+2025-01-01,Galaga,North America,16.3,Shooter,1981,195,9.5,2.4,4.89
+2025-01-01,Mario,North America,46.8,Platformer,1985,1150,11.7,7.1,12.16
+2025-01-01,Pac-Man,North America,23.9,Maze,1980,950,6.4,5.6,5.26
+2025-01-01,Space Invaders,North America,14.4,Shooter,1978,185,8.6,2.2,4.32
